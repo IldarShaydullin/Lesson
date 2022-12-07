@@ -1,0 +1,15 @@
+/Users/ildar/Desktop/MyLesson/bin/Debug/net6.0/MyLesson
+/Users/ildar/Desktop/MyLesson/bin/Debug/net6.0/MyLesson.deps.json
+/Users/ildar/Desktop/MyLesson/bin/Debug/net6.0/MyLesson.runtimeconfig.json
+/Users/ildar/Desktop/MyLesson/bin/Debug/net6.0/MyLesson.dll
+/Users/ildar/Desktop/MyLesson/bin/Debug/net6.0/MyLesson.pdb
+/Users/ildar/Desktop/MyLesson/obj/Debug/net6.0/MyLesson.csproj.AssemblyReference.cache
+/Users/ildar/Desktop/MyLesson/obj/Debug/net6.0/MyLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ildar/Desktop/MyLesson/obj/Debug/net6.0/MyLesson.AssemblyInfoInputs.cache
+/Users/ildar/Desktop/MyLesson/obj/Debug/net6.0/MyLesson.AssemblyInfo.cs
+/Users/ildar/Desktop/MyLesson/obj/Debug/net6.0/MyLesson.csproj.CoreCompileInputs.cache
+/Users/ildar/Desktop/MyLesson/obj/Debug/net6.0/MyLesson.dll
+/Users/ildar/Desktop/MyLesson/obj/Debug/net6.0/refint/MyLesson.dll
+/Users/ildar/Desktop/MyLesson/obj/Debug/net6.0/MyLesson.pdb
+/Users/ildar/Desktop/MyLesson/obj/Debug/net6.0/MyLesson.genruntimeconfig.cache
+/Users/ildar/Desktop/MyLesson/obj/Debug/net6.0/ref/MyLesson.dll
